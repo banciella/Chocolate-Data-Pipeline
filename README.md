@@ -1,4 +1,4 @@
-Olá me chamo Felipe Banciella e esse é o meu projeto de Análise Vendas Chocolates
+Olá me chamo Felipe Banciella e esse é o meu projeto de Chocolate Data Pipeline
 
 ## 📌 Descrição
 Este projeto tem como objetivo praticar um pipeline completo de dados:
